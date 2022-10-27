@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @meganpaquin
+- 👀 I’m interested in Hiking and Libraries
+- 🌱 I’m currently learning Python and Backend Frameworks
+- 📫 How to reach me ... megan.j.paquin@gmail.com
